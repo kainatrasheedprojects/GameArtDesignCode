@@ -57,13 +57,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Demo\Low poly package\Scripts\GameHandler.cs" />
+    <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
     <Compile Include="Assets\Demo\Low poly package\Scripts\ScreenshotHandler.cs" />
     <Compile Include="Assets\FROOD\Scripts\Spin.cs" />
-    <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
+    <Compile Include="Assets\IL3DN\Scripts\IL3DN_SimpleMouseLook.cs" />
+    <Compile Include="Assets\IL3DN\Scripts\IL3DN_Wind.cs" />
+    <Compile Include="Assets\IL3DN\Scripts\IL3DN_SimpleFPSController.cs" />
+    <Compile Include="Assets\IL3DN\Scripts\IL3DN_ChangeWalkingSound.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AurynSky\Gems Ultimate Pack\READ ME.txt" />
+    <None Include="Assets\IL3DN\Shaders\IL3DN_Pine.shader" />
+    <None Include="Assets\IL3DN\Shaders\IL3DN_Branch.shader" />
     <None Include="Assets\Cloudy Summer Day Skybox\CloudySummerDaySkybox_Info.txt" />
+    <None Include="Assets\IL3DN\Shaders\IL3DN_Grass.shader" />
+    <None Include="Assets\IL3DN\Shaders\IL3DN_OpaqueSurface.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
