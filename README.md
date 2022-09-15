@@ -3,3 +3,8 @@
  just download this and use it in  unity editor for your smooth game process without any  warning or error.
  and give a star 
 contribute on this repository to make better projects.
+
+
+how to  access levels ? 
+click on "level 1 scene.unity"  to open  level 1
+click on " level 3 design  update.unity" to  open level 3
